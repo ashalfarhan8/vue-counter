@@ -1,4 +1,4 @@
-# learn-cli
+# Vue Counter Exercise
 
 ## Project setup
 ```
